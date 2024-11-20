@@ -12,3 +12,9 @@ Modelo de duas camadas
 
 Nesse modelo, temos as camadas cliente e servidor, sendo função da primeira tratar a lógica do negócio e fazer a interface com o usuário, 
 enquanto a segunda é responsável por tratar os dados — normalmente fazendo uso de sistemas gerenciadores de bancos de dados 
+
+
+Modelo de três camadas
+
+O grande avanço obtido nesse modelo foi tirar da máquina cliente a responsabilidade pela interface com o usuário, passando a centralizá-la em um único ponto, normalmente em um servidor web. 
+Com isso, no lugar de aplicações instaladas em cada máquina cliente, passamos a ter os clientes acessando aplicações hospedadas em servidores web a partir de navegadores.
