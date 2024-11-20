@@ -18,3 +18,10 @@ Modelo de três camadas
 
 O grande avanço obtido nesse modelo foi tirar da máquina cliente a responsabilidade pela interface com o usuário, passando a centralizá-la em um único ponto, normalmente em um servidor web. 
 Com isso, no lugar de aplicações instaladas em cada máquina cliente, passamos a ter os clientes acessando aplicações hospedadas em servidores web a partir de navegadores.
+
+
+
+Comunicação no ambiente web
+
+A comunicação, nesse ambiente, é feita sobre a internet, com o uso dos seus protocolos de comunicação, sendo o principal protocolo o HTTP 
+(HyperText Transfer Protocol), que é um protocolo para transferência de hipertexto. 
