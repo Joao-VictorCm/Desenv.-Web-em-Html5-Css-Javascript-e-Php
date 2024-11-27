@@ -1,0 +1,7 @@
+Mobile first
+
+Defende que em primeiro lugar seja pensado o design para telas menores e, posteriormente, para telas maiores. 
+Trata-se de um enfoque progressivo (progressive enhancement)
+
+A aplicação prática do mobile first consiste em planejar o desenvolvimento de um site priorizando os recursos e as características presentes nos dispositivos móveis, 
+como o tamanho de tela, a largura de banda disponível e até mesmo recursos específicos, como os de localização, por exemplo.
