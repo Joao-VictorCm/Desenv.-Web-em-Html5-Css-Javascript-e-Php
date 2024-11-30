@@ -1,0 +1,21 @@
+Sintaxe
+
+Veja a seguir um resumo sobre a sintaxe do PHP. 
+
+Variaveis
+No PHP, as variáveis são criadas com a utilização do símbolo de cifrão ($). 
+Além disso, PHP é case sensitive, ou seja, sensível a letras maiúsculas e minúsculas, pois faz diferença quando utilizamos uma e outra.
+
+Tipos de dados
+O PHP é uma linguagem fracamente tipada. Logo, embora possua suporte para isto, não é necessário definir o tipo de uma variável em sua declaração.
+Os tipos de dados disponíveis em PHP são: 
+booleanos, inteiros, números de ponto flutuante, strings, arrays, interáveis (iterables), objetos, recursos, NULL e call-backs.
+
+Operadores Condicionais 
+No PHP, há suporte às condicionais if, else, if e else ternários, if else e switch.
+
+Laçõs de repetição 
+No PHP estão disponíveis os laços for, foreach, while e do-while.
+
+Fuções e métodos
+O código PHP possui uma grande quantidade de funções e métodos nativos.
